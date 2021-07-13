@@ -3,6 +3,7 @@ A simple program demonstrating OOP.
 
 ## How do you design a Coin-Operated Soda Machine?
 UML flow diagram: 
+
 ![title](flow-diagram.png)
 
 ## Requirement statement (*):
