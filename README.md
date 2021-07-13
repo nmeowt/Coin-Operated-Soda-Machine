@@ -2,7 +2,8 @@
 A simple program demonstrating OOP.
 
 ## How do you design a Coin-Operated Soda Machine?
-UML flow diagram: **uml.uxf**
+UML flow diagram: 
+![title](flow-diagram.png)
 
 ## Requirement statement (*):
  1. Accepts notes of 10.000, 20.000, 50.000, 100.000, 200.000 VND 
